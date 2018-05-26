@@ -60,8 +60,7 @@ def getColumn(text):
 # print(isTerminator('c'))
 
 
-# a=reverse(123456)
-# print(a)
+# a=rever
 # for i in a:
 #     print(i)
 
